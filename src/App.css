@@ -1,0 +1,353 @@
+.head{
+  background-color: rgb(71, 4, 4);
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  box-shadow: 0 0 20px white;
+  font-size: 20px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.3rem;
+  
+}
+.nav-img{ 
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  margin-top: -20px;
+
+}
+.menu{
+  z-index: 2;
+  font-size: 1.3rem;
+
+ font-weight: 700;
+ 
+}
+.menu-top{
+  justify-content: center;
+  margin-left: 40px;
+}
+.simple{
+  color:white;
+}
+.menu-bar{
+  padding-left: 20px;
+}
+.menu-bar-1:hover{
+  text-decoration: none;
+  color: white !important;
+}
+.menu-bar>a{
+  color:white;
+
+}
+
+
+
+  
+
+.simply{
+  text-align: center;
+  color: rgb(71, 4, 4);
+  font-size: 2rem;
+  font-weight:700 ;
+}
+.contact-details{
+  text-align: center;
+  color: rgb(71, 4, 4);
+}
+.location{
+  text-align: center;
+}
+.location>a{
+  color: rgb(71, 4, 4) !important;
+  text-decoration: none ;
+}
+.details{
+  text-align: center;
+  color: rgb(71, 4, 4);
+}
+.form{
+  justify-content: center;
+}
+.name{
+  display: flex;
+  justify-content: center;
+}
+
+.email{
+  margin-left: 10px;
+  width: 300px;
+  height: 40px;
+}
+.name-box{
+  width: 300px;
+  height: 40px;
+}
+.company{
+  width: 610px;
+  height: 40px;
+}
+.form-control{
+  width: 610px;
+  height: 80px;
+  border: 0.5px solid gray;
+}
+.button{
+  border-radius: 3px;
+  background-color:rgb(100, 22, 22);
+  color: white;
+  box-shadow: 5px 10px rgb(233, 107, 107) ;
+}
+.details-1{
+  background-color: #7d584e;
+
+}
+
+.choco-details{
+  color: white;
+text-align: left;
+padding-left: 150px;
+
+}
+.img-choco{
+  background-color: #5e433b;
+  margin-left: -20px;
+}
+.text{
+  text-align: center;
+}
+.choco-bar{
+  height: 100%;
+  max-width: 100% ;
+  background-color: #b8978e;
+  border-radius: 10px;
+
+  
+}
+.gap{
+  height: auto;
+  max-width: 97% ;
+  
+
+}
+.choco-col-img{
+  height: 350px;
+  width: 350px;
+}
+.img-index-1{
+  position:absolute;
+  z-index: -2;
+}
+.img-index-2{
+  margin-top: 300px;
+  margin-left: 50px;
+  z-index: 1;
+}
+.gift{
+  height: auto;
+  max-width: 100%;
+  
+}
+.free{
+  height: auto;
+  max-width: 100%;
+ 
+
+  
+}
+
+.free-img{
+  position:absolute;
+  z-index: -2;
+
+}
+.free-text{
+  text-align: center;
+  padding-top: 400px;
+  z-index: 1;
+  font-weight: 900;
+  font-size: 40px;
+}
+.woman{
+  padding-left: 40px;
+  text-align:left;
+  font-size: 20px;
+
+}
+.woman-img{
+  height:auto!important;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.onclick{
+  text-align: center;
+  word-spacing: 40px;
+}
+.onclick>a{
+  text-decoration: none;
+  color: rgb(95, 93, 93);
+  font-size: 30px;
+
+}
+.gap-free{
+  height: 100%;
+  max-width: 100%;
+}
+.flex{
+  display: flex;
+  gap:30px;
+  justify-content: center;
+ }
+ .innerimage{
+  width:100%;
+  height:auto;
+ }
+.flex>Link{
+  text-decoration: none;
+}
+.three-img{
+  margin-top: 500px;
+}
+.rowimg{
+  margin-top: 10px;
+  display: flex;
+  justify-content:center;
+  gap: 30px;
+}
+.footer{
+  background-color: rgb(70 49 38);
+  color: white;
+}
+.free-top{
+  padding-top: 200px;
+}
+.cartbtn{
+  margin-top: -100px;
+  position: relative;
+  left: 5%;
+  display: flex;
+  gap: 310px;
+ 
+
+}
+.btn{
+  border: 2px solid rgb(77, 20, 20);
+  border-radius: 10px;
+  
+}
+.login{
+  margin-top: 450px;
+
+  background-color: aquamarine;
+}
+.form{
+  padding-top: 50px;
+}
+.loginbtn{
+  margin-bottom: 50px;
+}
+.contact{
+  margin-top: 500px;
+}
+
+@media screen and (max-width: 767px) {
+  .cartbtn{
+    gap: 290px;
+  }
+  .menu{
+    font-size: 0.9rem;
+      }
+     .three-img{
+      margin-top: 100px !important;
+     }
+    
+      .menu-bar{
+        padding-top: 1px;
+      }
+      .nav-img{ 
+        background-size: cover;
+        width: 100%;
+        height: 400px;
+        position: absolute;
+        z-index: -1;
+        margin-top: -20px;
+       
+      
+      }
+     
+  .name{
+  
+    width: 70%;
+    height: auto;
+  }
+  .name-box{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  .email{
+    margin-left: -10px;
+ 
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+  .company{
+  width:70%;
+  }
+  .gap{
+    width: 100%;
+    height: auto;
+    
+  }
+  .gift{
+    width: 100%;
+    height: auto;
+  }
+  .form-control{
+  
+    border: 0.5px solid gray;
+  }
+  .img-choco{
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+  .choco-details{
+    padding-left: 0px;
+  }
+  .choco-bar{
+    height: auto;
+    width: auto;
+  }
+  .gap{
+    display: grid;
+    row-gap: 200px;
+  }
+  .img-index-1{
+    height: 100%;
+    width: auto;
+  }
+  .free-img{
+    height: 100%;
+    width: 100%;
+  }
+  .woman{
+    padding-left: 0px;
+    text-align:left;
+  }
+  .rowimg{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .innerimage{
+    width: 100%;
+    height: auto;
+  }
+
+}
