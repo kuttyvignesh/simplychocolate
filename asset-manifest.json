@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simplychocolate/static/css/main.41894555.css",
-    "main.js": "/simplychocolate/static/js/main.8f465d3f.js",
+    "main.js": "/simplychocolate/static/js/main.8e1219d0.js",
     "static/js/453.ddb34d6d.chunk.js": "/simplychocolate/static/js/453.ddb34d6d.chunk.js",
     "static/media/environment.jpg": "/simplychocolate/static/media/environment.88826748ecd0bb062f8c.jpg",
     "static/media/solar.jpg": "/simplychocolate/static/media/solar.92b9b03ff00bd04b45f9.jpg",
@@ -19,11 +19,11 @@
     "static/media/gift-1.webp": "/simplychocolate/static/media/gift-1.aa1204b9d1f1891b1f18.webp",
     "index.html": "/simplychocolate/index.html",
     "main.41894555.css.map": "/simplychocolate/static/css/main.41894555.css.map",
-    "main.8f465d3f.js.map": "/simplychocolate/static/js/main.8f465d3f.js.map",
+    "main.8e1219d0.js.map": "/simplychocolate/static/js/main.8e1219d0.js.map",
     "453.ddb34d6d.chunk.js.map": "/simplychocolate/static/js/453.ddb34d6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41894555.css",
-    "static/js/main.8f465d3f.js"
+    "static/js/main.8e1219d0.js"
   ]
 }
