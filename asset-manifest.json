@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/simplychocolate/static/css/main.41894555.css",
+    "main.js": "/simplychocolate/static/js/main.8f465d3f.js",
+    "static/js/453.ddb34d6d.chunk.js": "/simplychocolate/static/js/453.ddb34d6d.chunk.js",
+    "static/media/environment.jpg": "/simplychocolate/static/media/environment.88826748ecd0bb062f8c.jpg",
+    "static/media/solar.jpg": "/simplychocolate/static/media/solar.92b9b03ff00bd04b45f9.jpg",
+    "static/media/women.webp": "/simplychocolate/static/media/women.e77182e62ed5664677b2.webp",
+    "static/media/FB_kvadrat_mix_2024_47.webp": "/simplychocolate/static/media/FB_kvadrat_mix_2024_47.0c1a3e3ca8b01b335dc4.webp",
+    "static/media/nav-bar-img.webp": "/simplychocolate/static/media/nav-bar-img.00a7838b819bdc9a3dcc.webp",
+    "static/media/chocolate.webp": "/simplychocolate/static/media/chocolate.6fe46d1061354bf03bb0.webp",
+    "static/media/FB_kvadrat_mix_2024_49.webp": "/simplychocolate/static/media/FB_kvadrat_mix_2024_49.7dca6476fdfdfcec2e82.webp",
+    "static/media/FB_kvadrat_mix_2024_45.webp": "/simplychocolate/static/media/FB_kvadrat_mix_2024_45.e6a4c3ac1b7ce1844dc0.webp",
+    "static/media/free-1.jpg": "/simplychocolate/static/media/free-1.127cbf711a11910d4a6b.jpg",
+    "static/media/free-2.jpg": "/simplychocolate/static/media/free-2.db54af7bc673aec6c7d0.jpg",
+    "static/media/choco-bar.webp": "/simplychocolate/static/media/choco-bar.629af02c31313df3a3dc.webp",
+    "static/media/gift-3.webp": "/simplychocolate/static/media/gift-3.549c741925267abe338b.webp",
+    "static/media/gift-2.webp": "/simplychocolate/static/media/gift-2.10bd09c0f14e96801eb6.webp",
+    "static/media/gift-1.webp": "/simplychocolate/static/media/gift-1.aa1204b9d1f1891b1f18.webp",
+    "index.html": "/simplychocolate/index.html",
+    "main.41894555.css.map": "/simplychocolate/static/css/main.41894555.css.map",
+    "main.8f465d3f.js.map": "/simplychocolate/static/js/main.8f465d3f.js.map",
+    "453.ddb34d6d.chunk.js.map": "/simplychocolate/static/js/453.ddb34d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41894555.css",
+    "static/js/main.8f465d3f.js"
+  ]
+}
