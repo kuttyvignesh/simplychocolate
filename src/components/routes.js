@@ -15,7 +15,7 @@ const Rout=({
             <Routes>
                 <Route path='/' element={<Homepage productItems={productItems} handleAddProduct={handleAddProduct}/>}/>
                 <Route path='/Contact/' element={<Contact/>}/>
-                <Route path='/LogIn' element={<LogIn/>}/>
+                <Route path='/LogIn/' element={<LogIn/>}/>
 
             </Routes>
         </div>
